@@ -2,7 +2,7 @@
 
 ## Description
 
-File Sorting Assistant is a powerful and user-friendly batch script designed to help you efficiently organize and manage files in a specified directory. This script provides an interactive way to review files one by one, decide whether to keep or delete them, and automatically move unwanted files to a designated "Delete" folder.
+Many times we have some folders in our pc where so many files from somany years are stored and we are so lazy to see the whole folder and delete which we need and which not. File Sorting Assistant is a powerful and user-friendly batch script designed to help you efficiently organize and manage files in a specified directory. This script provides an interactive way to review files one by one, decide whether to keep or delete them, and automatically move unwanted files to a designated "Delete" folder. After all sorting you can delete the "Delete" folder.
 
 ## Features
 
